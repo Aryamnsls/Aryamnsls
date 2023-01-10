@@ -9,7 +9,5 @@ I'm Currently Learning react and angularjs.
 - 📫 How to reach me 
 - 
 - https://www.linkedin.com/in/aryaman-singha-528929220/
-<!---
-Aryamnsls/Aryamnsls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Github Status] (https://github-readme-stats.vercel.app/api?username=Aryamnsls &theme=radical)
