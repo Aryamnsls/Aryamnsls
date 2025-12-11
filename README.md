@@ -73,10 +73,32 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight" height="180" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight&hide_border=false" 
+    height="180" 
+    alt="Top Languages" 
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=aryamnsls&theme=tokyonight&hide_border=false" 
+    height="190" 
+    alt="GitHub Streak" 
+  />
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamnsls&theme=tokyonight" />
