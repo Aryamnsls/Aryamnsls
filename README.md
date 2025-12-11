@@ -16,7 +16,7 @@
 <!-- 🌗 Dark/Light Mode Toggle -->
 <!-- ========================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChrisMaher233/dark-mode-toggle/main/assets/toggle.gif" width="120">
+  <img src="https://raw.githubusercontent.com/ChrisMaher233/dark-mode-toggle/main/assets/toggle.gif" width="120" alt="Glow Mode Toggle">
   <br>
   <b>Glow Mode Switch</b>
 </div>
@@ -27,7 +27,7 @@
 <!-- 🔥 Neon Pulse Separator    -->
 <!-- ========================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/line-neon.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/line-neon.gif" width="100%" alt="Neon Pulse Separator">
 </p>
 
 # 🚀 About Me  
@@ -50,22 +50,22 @@
 <p align="center">
 
   <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/GCP-Cloud-yellow?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-Cloud-yellow?style=for-the-badge&logo=googlecloud" alt="GCP" />
 
   <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" alt="Terraform" />
 
   <!-- Monitoring -->
-  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana" alt="Grafana" />
 
   <!-- NIC Badge -->
-  <img src="https://img.shields.io/badge/NIC-HQ-blue?style=for-the-badge&logo=government" />
+  <img src="https://img.shields.io/badge/NIC-HQ-blue?style=for-the-badge&logo=government" alt="NIC HQ" />
 
 </p>
 
@@ -73,36 +73,36 @@
 
 # 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins,github,gitlab,terraform,ansible,linux,prometheus,grafana,react,nodejs,express,mongodb,typescript,javascript,html,css,tailwind,python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins,github,gitlab,terraform,ansible,linux,prometheus,grafana,react,nodejs,express,mongodb,typescript,javascript,html,css,tailwind,python,java,cpp" alt="tech stack icons" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics  
+# 📊 GitHub Analytics (Fixed & Stable)
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <!-- GitHub stats (stable mirror) -->
+  <img 
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <!-- Top languages -->
+  <img 
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="Top Languages" 
+  />
 
-  <img src="https://streak-stats.demolab.com/?user=aryamnsls&theme=tokyonight&hide_border=true" height="195" />
+  <!-- Streak (demolab) -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=aryamnsls&theme=tokyonight&hide_border=true" 
+    height="195" 
+    alt="GitHub Streak" 
+  />
 
 </div>
-
----
-
-# 🧊 3D GitHub Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aryamnsls/aryamnsls/output/github-contribution-grid-snake.svg" width="90%">
-</p>
-
----
-
-# 🌀 Animated Project Cards  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamnsls&repo=DevOps-Automation&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamnsls&repo=Stock-Market-App&theme=tokyonight&hide_border=true">
-</p>
 
 ---
 
