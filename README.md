@@ -1,115 +1,87 @@
-<h1 align="center">👋 Hey, I'm <strong>ARYAMAN M. SINGHA</strong></h1>
-<h3 align="center">🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 💻 MERN Stack Developer</h3>
-
+<!-- 🔥 Animated DevOps Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryamnsls&label=Profile+Views&color=blue&style=flat-square" />
+  <img src="https://i.imgur.com/qh5zC1G.gif" width="100%" alt="DevOps Banner"/>
 </p>
 
----
-
-## 🧑‍💻 About Me
-🔹 DevOps Engineer at **NIC HQ (Transport Department)** working on major government projects  
-🔹 Building scalable cloud + DevOps solutions  
-🔹 MERN-Stack Developer crafting clean, production-ready apps  
-🔹 Gamer & Professional Photographer 🎮📸
+<h1 align="center">Hi 👋, I'm Aryaman Singha</h1>
+<h3 align="center">Cloud & DevOps Engineer | Automation Enthusiast | NIC HQ (Transport Dept.)</h3>
 
 ---
 
-## 🚀 What I’m Working On
-- 🔭 **Real-Time Stock Market App**  
-- 🔧 **CI/CD Automations & Cloud Deployments**  
-- 📚 Learning **Kubernetes | Docker | Terraform | AWS Multi-AZ Architectures**
+## 🚀 About Me  
+- 🌩️ Cloud & DevOps Engineer with hands-on experience  
+- 🏢 Working at **National Informatics Centre (NIC HQ)** – Transport Department  
+- ⚙️ Managing government infra like *Parivahan, eChallan, Delhi Traffic Police, mParivahan, Jio Cloud Staging*  
+- 🛠️ Passionate about Automation, Monitoring, CI/CD  
+- 🎮 Gamer | 📸 Photographer
 
 ---
 
-## 🤝 Collaboration & Contributions
-- 👯 Collaborating with **Oppia Foundation**
-- 🤝 Looking for help / collaboration on **OmegaUp**
-- 🌐 My Portfolio → **https://meek-tulumba-b921bb.netlify.app**
-
----
-
-## 📫 Reach Me At
-📧 **aryamansingha60@gmail.com**  
-🔗 **LinkedIn:** www.linkedin.com/in/aryaman-singha-528929220/
-
----
-
-# 🔧 DevOps & Cloud Skills
+## 🛡️ Tech Badges (Personalized)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins,github,gitlab,terraform,linux,ansible,prometheus,grafana" />
-</p>
+  
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/DevOps-Engineer-success?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-GitOps-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
----
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-System_Admin-black?style=for-the-badge&logo=linux&logoColor=white" />
 
-# 💻 MERN & Other Development Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,javascript,html,css,tailwind,redux,vue,java,python" />
-</p>
+  <!-- NIC HQ Badge -->
+  <img src="https://img.shields.io/badge/NIC-HQ-blue?style=for-the-badge&logo=government&logoColor=white" />
 
----
-
-# 🚀 Tools & Technologies I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,figma,bootstrap,flutter,php,cpp,cs,swift,selenium,opencv,firebase" />
-</p>
-
----
-
-# 🌐 Competitive Programming Profiles
-<p align="left">
-<a href="https://codeforces.com/profile/aryamansingha60" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" />
-</a>
-<a href="https://leetcode.com/aryaman123_/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/aryamansingha60/practice" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" />
-</a>
 </p>
 
 ---
 
 # 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" 
-    height="180" 
-    alt="GitHub Stats" 
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180"
   />
 
-  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight&hide_border=false" 
-    height="180" 
-    alt="Top Languages" 
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
   />
 
-  <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com/?user=aryamnsls&theme=tokyonight&hide_border=false" 
-    height="190" 
-    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com/?user=aryamnsls&theme=tokyonight&hide_border=true" 
+    height="195"
   />
 
 </div>
 
+---
+
+# 🐍 Contribution Snake Animation  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamnsls&theme=tokyonight" />
+  <img 
+    src="https://raw.githubusercontent.com/aryamnsls/aryamnsls/output/github-contribution-grid-snake.svg" 
+    alt="snake animation"
+  />
 </p>
 
 ---
 
-# ⚡ Fun Fact
-🎮 I’m a dedicated gamer  
-📸 I capture moments as a professional photographer  
-☁️ I love everything **Cloud + Automation**
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryaman-singha-528929220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:aryamansingha60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
