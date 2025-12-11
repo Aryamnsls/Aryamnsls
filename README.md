@@ -1,42 +1,52 @@
+<!-- ========================= -->
 <!-- 🔥 Animated DevOps Banner -->
+<!-- ========================= -->
 <p align="center">
-  <img src="https://i.imgur.com/qh5zC1G.gif" width="100%" alt="DevOps Banner"/>
+  <img src="https://i.imgur.com/NiP9Q2t.gif" width="100%" alt="DevOps Banner"/>
 </p>
 
-<!-- Neon Glowing Name -->
+<!-- 🔥 Neon Glowing Name -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1500&color=00F2FF&center=true&vCenter=true&repeat=true&width=700&lines=ARYAMAN+SINGHA;Cloud+%26+DevOps+Engineer;Automation+%7C+Kubernetes+%7C+CI%2FCD;Always+Building+%E2%9A%A1" />
 </h1>
 
 <h3 align="center">Cloud & DevOps Engineer | MERN Developer | NIC HQ (Transport Dept.)</h3>
 
----
-
-# 🧊 Gradient Border Style  
+<!-- ========================= -->
+<!-- 🌗 Dark/Light Mode Toggle -->
+<!-- ========================= -->
 <div align="center">
-  <img src="https://github.com/DenverCoder1/DenverCoder1/blob/main/assets/gradient-bar.gif?raw=true" width="100%">
+  <img src="https://raw.githubusercontent.com/ChrisMaher233/dark-mode-toggle/main/assets/toggle.gif" width="120">
+  <br>
+  <b>Glow Mode Switch</b>
 </div>
 
 ---
 
+<!-- ========================== -->
+<!-- 🔥 Neon Pulse Separator    -->
+<!-- ========================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/line-neon.gif" width="100%">
+</p>
+
 # 🚀 About Me  
-- 🌩️ Cloud + DevOps Engineer with hands-on production experience  
+- 🌩️ Cloud + DevOps Engineer with production-level experience  
 - 🏢 Working at **NIC HQ – Transport Dept.**  
-- 🛠 Managing infra for **Parivahan, eChallan, Delhi Traffic, mParivahan, Jio Cloud Staging**  
-- ⚙️ Automating CI/CD, Scaling, Monitoring, & Cloud Deployments  
-- 💡 I love building things that run automatically, scale quickly, and never break  
-- 🎮 Gamer | 📸 Photographer | ⚡ Tech Explorer  
+- 💼 Managed infra for **Parivahan, eChallan, Delhi Traffic, Jio Cloud Staging**  
+- ♾️ CI/CD, Monitoring, Automation, Cloud Scaling  
+- ⚡ Gamer | 📸 Photographer | 🧠 Problem Solver  
 
 ---
 
-# 🔥 Animated DevOps Pipeline (GIF)
+# 🔥 Animated DevOps Pipeline (New GIF)
 <p align="center">
-  <img src="https://i.imgur.com/32s4Z4H.gif" width="90%" alt="DevOps Pipeline Animation">
+  <img src="https://i.imgur.com/pNkJdYZ.gif" width="90%" alt="DevOps Pipeline Animation">
 </p>
 
 ---
 
-# 🛡️ Tech Badges (Personalized)
+# 🛡️ Tech Badges  
 <p align="center">
 
   <!-- Cloud -->
@@ -49,7 +59,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
   <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins" />
   <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/Git-GitOps-F05032?style=for-the-badge&logo=git" />
 
   <!-- Monitoring -->
   <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus" />
@@ -72,20 +81,11 @@
 # 📊 GitHub Analytics  
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 
-  <img 
-    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-  <img 
-    src="https://streak-stats.demolab.com/?user=aryamnsls&theme=tokyonight&hide_border=true" 
-    height="195"
-  />
+  <img src="https://streak-stats.demolab.com/?user=aryamnsls&theme=tokyonight&hide_border=true" height="195" />
 
 </div>
 
@@ -96,20 +96,22 @@
   <img src="https://raw.githubusercontent.com/aryamnsls/aryamnsls/output/github-contribution-grid-snake.svg" width="90%">
 </p>
 
+---
+
+# 🌀 Animated Project Cards  
 <p align="center">
-  <img src="https://github.com/rajaprerak/rajaprerak/blob/output/github-contribution-grid-snake-dark.svg" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamnsls&repo=DevOps-Automation&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamnsls&repo=Stock-Market-App&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-# 🚀 My Projects  
-### 🔥 Highlighted Work  
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Real-Time Stock Market App** | Live price updates & charts | MERN + WebSocket |
-| **CI/CD Automation System** | Fully automated pipelines | Jenkins, Docker, K8s |
-| **Govt Infra Management** | Monitoring & scaling govt workloads | AWS, Grafana, Linux |
-
----
-
-# 🛣️ My DevOps Journey Timeline  
+# 🚀 My DevOps Journey Timeline  
+```mermaid
+timeline
+    title Aryaman's DevOps Journey
+    2021 : Started my tech journey
+    2022 : Web Dev + Cloud Basics
+    2023 : DevOps Tools + CI/CD
+    2024 : Govt Infra @ NIC HQ
+    2025 : Advanced Cloud + Automation
