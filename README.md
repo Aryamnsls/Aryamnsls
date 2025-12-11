@@ -39,11 +39,6 @@
 
 ---
 
-# 🔥 Animated DevOps Pipeline (New GIF)
-<p align="center">
-  <img src="https://i.imgur.com/pNkJdYZ.gif" width="90%" alt="DevOps Pipeline Animation">
-</p>
-
 ---
 
 # 🛡️ Tech Badges  
