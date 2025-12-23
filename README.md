@@ -90,12 +90,7 @@
     alt="Top Languages" 
   />
 
-  <!-- Streak (demolab) -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=aryamnsls&theme=tokyonight&hide_border=true" 
-    height="195" 
-    alt="GitHub Streak" 
-  />
+
 
 </div>
 
