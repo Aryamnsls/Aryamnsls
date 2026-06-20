@@ -2,7 +2,7 @@
 <!-- 🔥 Animated DevOps Banner -->
 <!-- ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F97316&height=280&section=header&text=ARYAMAN%20SINGHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Platform%20Engineer&descAlignY=58" width="100%" alt="Aryaman Banner"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="DevOps Banner"/>
 </p>
 
 <!-- 🔥 Neon Glowing Name -->
