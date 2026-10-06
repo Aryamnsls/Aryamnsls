@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
-<!--                    ARYAMAN M SINGHA                       -->
-<!--       Cloud • DevOps • Platform • GenAI Engineering       -->
+<!--                    ARYAMAN M SINGHA                        -->
+<!--     Cloud • DevOps • Platform Engineering • Generative AI  -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -15,42 +15,32 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Production+Cloud+%26+DevOps+Engineering;Government-Scale+Digital+Infrastructure;Linux+%7C+OpenStack+%7C+Kubernetes;CI%2FCD+%7C+Infrastructure+Automation;Monitoring+%7C+Observability+%7C+SRE;Generative+AI+%7C+IIT+Patna"
-  alt="Cloud and DevOps Engineering"
+  alt="Cloud DevOps Platform Engineering"
 />
 
 <br/><br/>
 
-<img
-  src="https://img.shields.io/badge/Cloud-Engineering-0284C7?style=flat-square&logo=icloud&logoColor=white"
-  alt="Cloud Engineering"
-/>
-<img
-  src="https://img.shields.io/badge/DevOps-Automation-0F172A?style=flat-square&logo=githubactions&logoColor=white"
-  alt="DevOps"
-/>
-<img
-  src="https://img.shields.io/badge/OpenStack-Platform-E61E24?style=flat-square&logo=openstack&logoColor=white"
-  alt="OpenStack"
-/>
-<img
-  src="https://img.shields.io/badge/Kubernetes-Cloud_Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white"
-  alt="Kubernetes"
-/>
-<img
-  src="https://img.shields.io/badge/GenAI-IIT_Patna-7C3AED?style=flat-square"
-  alt="Generative AI"
-/>
+<img src="https://img.shields.io/badge/Cloud-Engineering-0284C7?style=flat-square&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-Automation-0F172A?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenStack-Platform-E61E24?style=flat-square&logo=openstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-Cloud_Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GenAI-IIT_Patna-7C3AED?style=flat-square" />
 
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Aryamnsls&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge"
-  alt="Profile Views"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/github/followers/Aryamnsls?label=FOLLOWERS&style=for-the-badge&color=0284C7&logo=github&logoColor=white"
+  src="https://img.shields.io/github/followers/Aryamnsls?label=Followers&style=flat-square&logo=github&color=0284C7"
   alt="GitHub Followers"
+/>
+
+<img
+  src="https://img.shields.io/github/stars/Aryamnsls?affiliations=OWNER&label=Stars&style=flat-square&logo=github&color=0284C7"
+  alt="GitHub Stars"
+/>
+
+<img
+  src="https://img.shields.io/badge/Focus-Platform%20Engineering-0F172A?style=flat-square"
+  alt="Platform Engineering"
 />
 
 </div>
@@ -63,27 +53,23 @@
 
 I work with **production and staging infrastructure supporting large-scale public digital platforms**, with hands-on experience across Linux administration, cloud infrastructure, application deployments, containers, CI/CD, networking, monitoring and incident troubleshooting.
 
-My engineering interests sit at the intersection of:
+My engineering focus combines:
 
-```text
-             Cloud Infrastructure
-                      │
-                      ▼
-             DevOps Automation
-                      │
-                      ▼
-           Platform Engineering
-                      │
-             ┌────────┴────────┐
-             ▼                 ▼
-      Cloud Native        Observability
-             │                 │
-             └────────┬────────┘
-                      ▼
-               Generative AI
-```
+<div align="center">
 
-🎓 Alongside infrastructure engineering, I am pursuing an **Executive M.Tech in Computer Science & Engineering — Generative AI at IIT Patna**.
+### ☁️ Cloud Infrastructure
+### ↓
+### ♾️ DevOps Automation
+### ↓
+### 🏗️ Platform Engineering
+### ↓
+### ☸️ Cloud Native & Observability
+### ↓
+### 🤖 Generative AI
+
+</div>
+
+🎓 Currently pursuing an **Executive M.Tech in Computer Science & Engineering — Generative AI at IIT Patna**.
 
 ---
 
@@ -168,32 +154,32 @@ My engineering interests sit at the intersection of:
                  │ Load Balancing    │
                  └─────────┬─────────┘
                            │
-             ┌─────────────┴─────────────┐
-             │                           │
-             ▼                           ▼
-      ┌──────────────┐            ┌──────────────┐
-      │ Application  │            │ Containerized│
-      │ Runtime      │            │ Workloads    │
-      │ Jetty/Tomcat │            │ Docker/Podman│
-      └──────┬───────┘            └──────┬───────┘
-             │                           │
-             └─────────────┬─────────────┘
+              ┌────────────┴────────────┐
+              │                         │
+              ▼                         ▼
+       ┌─────────────┐           ┌─────────────┐
+       │ Application │           │ Containers  │
+       │   Runtime   │           │Docker/Podman│
+       │Jetty/Tomcat │           │ Kubernetes  │
+       └──────┬──────┘           └──────┬──────┘
+              │                         │
+              └────────────┬────────────┘
                            │
                            ▼
-                 ┌───────────────────┐
-                 │ APIs / Services   │
-                 │ Data / Backends   │
-                 └─────────┬─────────┘
+                  ┌─────────────────┐
+                  │ APIs / Services │
+                  │ Data / Backends │
+                  └────────┬────────┘
                            │
                            ▼
-             ┌───────────────────────────┐
-             │      OBSERVABILITY        │
-             │ Prometheus • Grafana      │
-             │ Loki • Zabbix • Alerts    │
-             └───────────────────────────┘
+              ┌─────────────────────────┐
+              │      OBSERVABILITY      │
+              │ Prometheus • Grafana    │
+              │ Loki • Zabbix • Alerts  │
+              └─────────────────────────┘
 ```
 
-### What I work with
+### Core Engineering Areas
 
 - 🐧 Linux server administration & troubleshooting
 - 🚀 Production and staging deployment support
@@ -213,57 +199,54 @@ My engineering interests sit at the intersection of:
 
 # 🇮🇳 Large-Scale Digital Infrastructure
 
-My professional experience includes infrastructure and DevOps support within the **NIC ecosystem**, supporting digital transport platforms and associated production/staging environments.
-
-### Platform Exposure
+My professional experience includes **Cloud & DevOps infrastructure support within the NIC ecosystem**, working with digital transport platforms and associated production/staging environments.
 
 <div align="center">
+
+### Platform Exposure
 
 `mParivahan` • `eChallan` • `NHAI` • `eChitra` • `Delhi Traffic Systems`
 
 </div>
 
 ```text
-               DIGITAL TRANSPORT PLATFORMS
-                           │
-         ┌─────────────────┼──────────────────┐
-         │                 │                  │
-         ▼                 ▼                  ▼
-    Applications        APIs             Services
-         │                 │                  │
-         └─────────────────┼──────────────────┘
-                           ▼
-                 Infrastructure Layer
-                           │
-         ┌─────────────────┼─────────────────┐
-         ▼                 ▼                 ▼
-       Linux           Cloud / VMs       Networking
-         │                 │                 │
-         └─────────────────┼─────────────────┘
-                           ▼
-                  Application Runtime
-               Jetty • Tomcat • Containers
-                           │
-                           ▼
-                      Monitoring
-             Prometheus • Grafana • Loki
+                  DIGITAL PLATFORMS
+                         │
+        ┌────────────────┼────────────────┐
+        ▼                ▼                ▼
+   Applications         APIs           Services
+        │                │                │
+        └────────────────┼────────────────┘
+                         ▼
+                INFRASTRUCTURE
+                         │
+       ┌─────────────────┼─────────────────┐
+       ▼                 ▼                 ▼
+     Linux           Cloud / VMs       Networking
+       │                 │                 │
+       └─────────────────┼─────────────────┘
+                         ▼
+                 APPLICATION RUNTIME
+              Jetty • Tomcat • Containers
+                         │
+                         ▼
+                    OBSERVABILITY
+           Prometheus • Grafana • Loki
 ```
 
-### Core Responsibilities
-
-**Infrastructure**
+### Infrastructure
 
 `Linux` • `Cloud VMs` • `Networking` • `SSH` • `VPN` • `Firewall`
 
-**Application Runtime**
+### Application Runtime
 
 `Jetty` • `Tomcat` • `Nginx` • `Podman` • `Docker`
 
-**Operations**
+### Operations
 
 `Deployment` • `Monitoring` • `Incident Response` • `RCA` • `Log Analysis`
 
-**Observability**
+### Observability
 
 `Prometheus` • `Grafana` • `Loki` • `Promtail` • `Zabbix`
 
@@ -273,21 +256,32 @@ My professional experience includes infrastructure and DevOps support within the
 
 ```mermaid
 flowchart LR
-    DEV["Code"] --> GIT["Git"]
-    GIT --> CI["Jenkins / CI"]
-    CI --> QA["Build & Analysis"]
-    QA --> ART["Artifact"]
-    ART --> DEP["Deployment"]
-    DEP --> INFRA["Linux / Containers"]
-    INFRA --> PROXY["Nginx"]
-    PROXY --> APP["Applications"]
-    APP --> MON["Monitoring"]
-    MON --> OBS["Grafana / Loki"]
+
+    DEV["👨‍💻 Code"]
+    GIT["Git"]
+    CI["Jenkins / CI"]
+    QA["Build & Analysis"]
+    ART["Artifact"]
+    DEP["Deployment"]
+    INFRA["Linux / Containers"]
+    PROXY["Nginx"]
+    APP["Applications"]
+    MON["Monitoring"]
+
+    DEV --> GIT
+    GIT --> CI
+    CI --> QA
+    QA --> ART
+    ART --> DEP
+    DEP --> INFRA
+    INFRA --> PROXY
+    PROXY --> APP
+    APP --> MON
 ```
 
 <div align="center">
 
-### `Build → Test → Analyze → Package → Deploy → Observe → Improve`
+### `Build → Analyze → Package → Deploy → Observe → Improve`
 
 </div>
 
@@ -302,24 +296,30 @@ My platform-engineering focus includes **OpenStack architecture, infrastructure 
 ```mermaid
 flowchart TB
 
-    USER["User / Application"] --> KEYSTONE["Keystone<br/>Identity"]
+    USER["User / Application"]
+    KEYSTONE["Keystone<br/>Identity"]
+    NOVA["Nova<br/>Compute"]
+    NEUTRON["Neutron<br/>Networking"]
+    CINDER["Cinder<br/>Block Storage"]
+    GLANCE["Glance<br/>Images"]
+    VM["Virtual Machines / Workloads"]
 
-    KEYSTONE --> NOVA["Nova<br/>Compute"]
-    KEYSTONE --> NEUTRON["Neutron<br/>Networking"]
-    KEYSTONE --> CINDER["Cinder<br/>Block Storage"]
-    KEYSTONE --> GLANCE["Glance<br/>Images"]
+    USER --> KEYSTONE
+
+    KEYSTONE --> NOVA
+    KEYSTONE --> NEUTRON
+    KEYSTONE --> CINDER
+    KEYSTONE --> GLANCE
 
     GLANCE --> NOVA
     CINDER --> NOVA
     NEUTRON --> NOVA
 
-    NOVA --> VM["VMs / Workloads"]
+    NOVA --> VM
 ```
 
-### OpenStack Stack
-
-| Service | Engineering Area |
-|:---:|:---|
+| OpenStack Service | Engineering Area |
+|:---|:---|
 | **Nova** | Compute |
 | **Neutron** | Networking |
 | **Cinder** | Block Storage |
@@ -331,40 +331,33 @@ flowchart TB
 # ☸️ Kubernetes & Cloud Native
 
 ```text
-                     Kubernetes
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-     Deployments      Services         Pods
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                    Applications
-                         │
-                         ▼
-                 Observability
+                    KUBERNETES
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+   Deployments       Services          Pods
+        │               │               │
+        └───────────────┼───────────────┘
+                        ▼
+                  APPLICATIONS
+                        │
+                        ▼
+                  OBSERVABILITY
 ```
 
-### Current Focus
+### Current Cloud-Native Focus
 
-- Kubernetes administration
-- Container orchestration
-- Helm
-- Service networking
-- Cloud-native deployments
-- GitOps concepts
-- Platform engineering
-- Infrastructure automation
+`Kubernetes` • `Helm` • `Container Orchestration` • `Service Networking` • `GitOps` • `Platform Engineering`
 
 ---
 
-# 🛠️ Technology Arsenal
+# 🛠️ Technology Stack
 
 <div align="center">
 
 ### ☁️ Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Skills"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Technologies" />
 
 <br/>
 
@@ -372,15 +365,15 @@ flowchart TB
 
 <br/><br/>
 
-### ♾️ DevOps & Infrastructure
+### ♾️ DevOps & Automation
 
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github,terraform,ansible" alt="DevOps Skills"/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github,terraform,ansible" alt="DevOps Technologies" />
 
 <br/><br/>
 
-### 🐳 Containers & Platform
+### 🐳 Containers & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx" alt="Platform Skills"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx" alt="Container Technologies" />
 
 <br/>
 
@@ -390,7 +383,7 @@ flowchart TB
 
 ### 📊 Observability
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability Skills"/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability Technologies" />
 
 <br/>
 
@@ -400,23 +393,23 @@ flowchart TB
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,nodejs,react,express,mongodb" alt="Development Skills"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,nodejs,react,express,mongodb" alt="Programming Technologies" />
 
 </div>
 
 ---
 
-# 🧠 Skills Matrix
+# 🧠 Technical Skills
 
-| Engineering Domain | Technologies |
+| Domain | Technologies |
 |---|---|
 | ☁️ **Cloud** | Azure • AWS • OpenStack • GCP Fundamentals |
 | 🐧 **Systems** | Linux • Ubuntu • Systemd • Bash |
 | 🐳 **Containers** | Docker • Podman • Kubernetes • Helm |
 | ♾️ **CI/CD** | Jenkins • GitHub Actions • GitLab CI/CD |
-| 🏗️ **Infrastructure as Code** | Terraform • CloudFormation Fundamentals |
+| 🏗️ **IaC** | Terraform • CloudFormation Fundamentals |
 | 🌐 **Networking** | DNS • HTTP/S • SSH • VPN • NAT • Load Balancing |
-| 🚦 **Application Infrastructure** | Nginx • Apache • Jetty • Tomcat |
+| 🚦 **Application Infra** | Nginx • Apache • Jetty • Tomcat |
 | 📊 **Observability** | Prometheus • Grafana • Loki • Zabbix • CloudWatch |
 | 💻 **Programming** | Python • Java • C/C++ • JavaScript • TypeScript |
 | 🗄️ **Database** | MongoDB |
@@ -424,23 +417,23 @@ flowchart TB
 
 ---
 
-# 🤖 DevOps × Cloud × Generative AI
+# 🤖 Cloud × DevOps × Generative AI
 
-I'm particularly interested in combining **traditional infrastructure engineering with Generative AI and intelligent automation**.
+My long-term engineering interest is the intersection of **infrastructure automation and AI-assisted operations**.
 
 ```text
-                    Generative AI
+                    GENERATIVE AI
                          │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-    Log Analysis    Ops Assistance    Automation
-          │              │              │
-          └──────────────┼──────────────┘
+        ┌────────────────┼────────────────┐
+        ▼                ▼                ▼
+  Log Analysis     Ops Assistance     Automation
+        │                │                │
+        └────────────────┼────────────────┘
                          ▼
                         AIOps
                          │
                          ▼
-              Intelligent Infrastructure
+             INTELLIGENT INFRASTRUCTURE
 ```
 
 ### Areas I'm Exploring
@@ -464,33 +457,38 @@ A community-focused digital platform combining **web engineering, cloud deployme
 ```mermaid
 flowchart LR
 
-    USER["Users"] --> WEB["Web Platform"]
+    USER["Users"]
+    WEB["Web Platform"]
+    API["Application Layer"]
+    AI["AI Services"]
+    DATA["Data Layer"]
+    LLM["Gemini"]
+    CHAT["AI Assistant"]
+    DOC["Document Analysis"]
+    GRANT["Grant Advisor"]
+    TRANS["Translation"]
+    GIT["Git Repository"]
+    DEPLOY["Deployment"]
 
-    WEB --> API["Application Layer"]
+    USER --> WEB
+    WEB --> API
 
-    API --> AI["AI Services"]
-    API --> DATA["Data Layer"]
+    API --> AI
+    API --> DATA
 
-    AI --> LLM["Gemini"]
+    AI --> LLM
+    AI --> CHAT
+    AI --> DOC
+    AI --> GRANT
+    AI --> TRANS
 
-    AI --> CHAT["AI Assistant"]
-    AI --> DOC["Document Analysis"]
-    AI --> GRANT["Grant Advisor"]
-    AI --> TRANS["Translation"]
-
-    GIT["Git Repository"] --> DEPLOY["Deployment"]
+    GIT --> DEPLOY
     DEPLOY --> WEB
 ```
 
 ### AI Capabilities
 
-- 🤖 Conversational AI assistant
-- 📝 Meeting-minutes generation
-- 📑 Document analysis
-- 💡 Grant advisory
-- 🌐 Multilingual assistance
-- 🧠 Local deterministic fallback engine
-- ☁️ Cloud-hosted deployment
+`AI Assistant` • `Meeting Minutes` • `Document Analysis` • `Grant Advisory` • `Translation` • `Local Fallback Engine`
 
 ---
 
@@ -498,6 +496,7 @@ flowchart LR
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏛️ Indian Institute of Technology Patna
@@ -506,7 +505,7 @@ flowchart LR
 
 Computer Science & Engineering
 
-**Specialization:** Generative AI
+**Specialization — Generative AI**
 
 `2026 — 2028`
 
@@ -520,11 +519,12 @@ Computer Science & Engineering
 
 Computer Science & Engineering
 
-**Specialization:** Cloud Computing
+**Specialization — Cloud Computing**
 
 `2021 — 2025`
 
 </td>
+
 </tr>
 </table>
 
@@ -534,27 +534,15 @@ Computer Science & Engineering
 
 <div align="center">
 
-<img
-src="https://img.shields.io/badge/Microsoft-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"
-alt="Azure Administrator"
-/>
+<img src="https://img.shields.io/badge/Microsoft-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Administrator"/>
 
-<img
-src="https://img.shields.io/badge/AWS-Academy_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"
-alt="AWS Academy"
-/>
+<img src="https://img.shields.io/badge/AWS-Academy_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Academy"/>
 
 <br/>
 
-<img
-src="https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"
-alt="OCI Architect Associate"
-/>
+<img src="https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Architect Associate"/>
 
-<img
-src="https://img.shields.io/badge/Linux_Foundation-Kubernetes_Fundamentals-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white"
-alt="Kubernetes Fundamentals"
-/>
+<img src="https://img.shields.io/badge/Linux_Foundation-Kubernetes_Fundamentals-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Kubernetes Fundamentals"/>
 
 </div>
 
@@ -564,73 +552,43 @@ alt="Kubernetes Fundamentals"
 
 <div align="center">
 
-### `900+ LeetCode Problems` • `120+ GitHub Repositories` • `C++ HackerRank 4★`
+<img src="https://img.shields.io/badge/LeetCode-900%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-</div>
+<img src="https://img.shields.io/badge/GitHub-120%2B_Repositories-181717?style=for-the-badge&logo=github"/>
 
-- 💻 Extensive problem-solving practice across algorithms and data structures
-- 🥋 Karate Black Belt
-- 🏆 Competitive programming & technical community participation
-- 🛠️ Active project development across Cloud, DevOps, Web and AI
-
----
-
-# 📊 GitHub Engineering Dashboard
-
-<div align="center">
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=Aryamnsls&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-  alt="Aryaman GitHub Statistics"
-/>
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamnsls&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  alt="Aryaman Top Languages"
-/>
+<img src="https://img.shields.io/badge/HackerRank-C%2B%2B_4%E2%98%85-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Aryamnsls&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
+- 💻 Strong problem-solving foundation in algorithms and data structures
+- 🛠️ Projects spanning Cloud, DevOps, Web and AI
+- 🥋 Karate Black Belt
+- ⚡ Continuous hands-on infrastructure learning
 
 ---
 
-# 🏆 GitHub Achievements
+# 📌 Engineering Portfolio
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Aryamnsls&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6"
-  alt="GitHub Trophies"
-/>
+### ☁️ Cloud Infrastructure
+Linux • Azure • AWS • OpenStack
+
+### ♾️ DevOps
+Jenkins • GitHub Actions • GitLab CI/CD • Terraform
+
+### ☸️ Platform Engineering
+Docker • Podman • Kubernetes • Nginx • Jetty • Tomcat
+
+### 📊 Observability
+Prometheus • Grafana • Loki • Zabbix
+
+### 🤖 AI Engineering
+Generative AI • LLM Integration • Gemini
 
 </div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Aryamnsls/Aryamnsls/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
-
-> The contribution snake requires a GitHub Actions workflow generating the `output` branch. If you haven't configured it yet, remove this section temporarily.
 
 ---
 
@@ -670,14 +628,14 @@ timeline
 # 🎯 Current Engineering Focus
 
 ```text
-Linux / Systems       ████████████████████░░  Production
-Cloud & DevOps        ████████████████████░░  Production
-CI/CD Automation      ███████████████████░░░  Strong
-Observability         ███████████████████░░░  Strong
-Containers            ██████████████████░░░░  Strong
-OpenStack             ████████████████░░░░░░  Developing
-Kubernetes            ████████████████░░░░░░  Developing
-Generative AI         ██████████████░░░░░░░░  Developing
+Linux / Systems       ████████████████████░░   Production
+Cloud & DevOps        ████████████████████░░   Production
+CI/CD Automation      ███████████████████░░░   Strong
+Observability         ███████████████████░░░   Strong
+Containers            ██████████████████░░░░   Strong
+OpenStack             ████████████████░░░░░░   Developing
+Kubernetes            ████████████████░░░░░░   Developing
+Generative AI         ██████████████░░░░░░░░   Developing
 ```
 
 ---
@@ -702,11 +660,11 @@ Generative AI         ██████████████░░░░░�
 
 <div align="center">
 
-### Open to opportunities in
+### Open to Engineering Opportunities
 
 **Cloud Engineering • DevOps • Platform Engineering • SRE • OpenStack • Kubernetes • AI Infrastructure**
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Aryamnsls">
   <img
@@ -722,13 +680,11 @@ Generative AI         ██████████████░░░░░�
   alt="Engineering Motto"
 />
 
+<br/><br/>
+
+### ☁️ CLOUD &nbsp;•&nbsp; ♾️ DEVOPS &nbsp;•&nbsp; ☸️ PLATFORM &nbsp;•&nbsp; 🤖 AI
+
 </div>
-
-<br/>
-
-<p align="center">
-  <b>☁️ CLOUD &nbsp;•&nbsp; ♾️ DEVOPS &nbsp;•&nbsp; ☸️ PLATFORM &nbsp;•&nbsp; 🤖 AI</b>
-</p>
 
 <p align="center">
   <img
