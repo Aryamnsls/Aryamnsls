@@ -1,117 +1,314 @@
-<!-- ========================= -->
-<!-- 🔥 Animated DevOps Banner -->
-<!-- ========================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F97316&height=280&section=header&text=ARYAMAN%20SINGHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Platform%20Engineer&descAlignY=58" width="100%" alt="Aryaman Banner"/>
-</p>
+<!-- ===================== HERO ===================== -->
 
-<!-- 🔥 Neon Glowing Name -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1500&color=00F2FF&center=true&vCenter=true&repeat=true&width=700&lines=ARYAMAN+SINGHA;Cloud+%26+DevOps+Engineer;Automation+%7C+Kubernetes+%7C+CI%2FCD;Always+Building+%E2%9A%A1" />
-</h1>
-
-<h3 align="center">
-Cloud & DevOps Engineer | MERN Developer | NIC HQ (Transport Dept.)
-</h3>
-
-<!-- ========================= -->
-<!-- 🌗 Glow Mode Toggle -->
-<!-- ========================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChrisMaher233/dark-mode-toggle/main/assets/toggle.gif" width="120" alt="Glow Mode Toggle">
-  <br>
-  <b>Glow Mode Switch</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=250&section=header&text=ARYAMAN%20M%20SINGHA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20Platform%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Linux+%7C+OpenStack+%7C+Kubernetes;CI%2FCD+%7C+Infrastructure+Automation;Monitoring+%7C+Observability+%7C+SRE;Building+Reliable+Infrastructure+%E2%9A%A1" />
+
+<br/>
+
+<a href="https://github.com/Aryamnsls">
+<img src="https://komarev.com/ghpvc/?username=Aryamnsls&style=for-the-badge&color=0ea5e9" />
+</a>
+
+<img src="https://img.shields.io/github/followers/Aryamnsls?style=for-the-badge&logo=github&label=Followers" />
+
 </div>
 
 ---
 
-<!-- ========================== -->
-<!-- 🔥 Neon Separator -->
-<!-- ========================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/line-neon.gif" width="100%" />
-</p>
+## 👨‍💻 About Me
 
-# 🚀 About Me
-- 🌩️ Cloud + DevOps Engineer with **production-level experience**
-- 🏢 Working at **NIC HQ – Transport Department**
-- 💼 Managed infra for **Parivahan, eChallan, Delhi Traffic, Jio Cloud Staging**
-- ♾️ CI/CD, Monitoring, Automation, Cloud Scaling
-- ⚡ Gamer | 📸 Photographer | 🧠 Problem Solver
+```yaml
+name: Aryaman M Singha
+role: Cloud & DevOps Engineer
+focus:
+  - Cloud Infrastructure
+  - DevOps & Platform Engineering
+  - Linux Administration
+  - CI/CD Automation
+  - Observability
+  - OpenStack
+  - Kubernetes
 
----
+currently_learning:
+  - Generative AI
+  - Advanced Kubernetes
+  - Cloud Native Architecture
+  - AIOps
 
-# 🏆 Certifications & Achievements
+philosophy: "Automate what repeats. Monitor what matters. Engineer for reliability."
+```
 
-## 🎓 Cloud & DevOps Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Azure-AZ--104-blue?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker" />
-</p>
+I work on **production and staging infrastructure** supporting large-scale digital platforms, with hands-on experience across Linux, cloud infrastructure, deployment automation, observability, networking, containers, and incident troubleshooting.
 
-> 📝 *Some certifications are in progress / planned (2025–26)*
+My work primarily revolves around turning application deployments into **reliable, observable and repeatable infrastructure workflows**.
 
 ---
 
-## 🥇 GitHub Platform Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quickdraw-%E2%9A%A1-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOLO-%F0%9F%98%8E-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-yellow?style=for-the-badge" />
-</p>
+## ⚡ What I Work With
 
----
-
-## 🏅 Professional Highlights
-- 🚦 Worked on **nation-scale government platforms**
-- ☁️ Designed & maintained **secure cloud infrastructure**
-- 🔁 Built **CI/CD pipelines** for zero-downtime deployments
-- 📈 Implemented **monitoring & alerting** (Prometheus + Grafana)
-- 🛡️ Experience with **Govt-grade security & compliance**
-
----
-
-# 🛡️ Tech Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/GCP-Cloud-yellow?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana" />
-  <img src="https://img.shields.io/badge/NIC-HQ-blue?style=for-the-badge&logo=government" />
-</p>
-
----
-
-# 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins,github,gitlab,terraform,ansible,linux,prometheus,grafana,react,nodejs,express,mongodb,typescript,javascript,html,css,tailwind,python,java,cpp" />
-</p>
-
----
-
-# 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aryamnsls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aryamnsls&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,ansible" />
+
+### ♾️ DevOps & CI/CD
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github,nginx" />
+
+### 📊 Observability
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+`Loki` • `Promtail` • `Node Exporter` • `cAdvisor` • `Zabbix` • `CloudWatch`
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,nodejs,react,express,mongodb" />
+
 </div>
 
 ---
 
-# 🚀 My DevOps Journey
+## 🏗️ Engineering Experience
+
+```text
+                    ┌──────────────────┐
+                    │    Git / SCM     │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Jenkins / CI-CD  │
+                    └────────┬─────────┘
+                             │
+                    ┌────────▼─────────┐
+                    │ Build & Analysis │
+                    │ Maven / SonarQube│
+                    └────────┬─────────┘
+                             │
+                    ┌────────▼─────────┐
+                    │ Artifact / Image │
+                    │ Nexus / Registry │
+                    └────────┬─────────┘
+                             │
+                             ▼
+              ┌────────────────────────────┐
+              │ Deployment Infrastructure  │
+              │ Linux • Docker • Podman    │
+              │ Kubernetes • Jetty • Nginx │
+              └──────────────┬─────────────┘
+                             │
+                             ▼
+              ┌────────────────────────────┐
+              │ Observability & Operations │
+              │ Prometheus • Grafana • Loki│
+              │ Zabbix • Alerting • RCA    │
+              └────────────────────────────┘
+```
+
+---
+
+## 🚦 Production & Platform Engineering
+
+- ⚙️ Linux administration and production troubleshooting
+- ☁️ Cloud infrastructure and workload integration
+- 🐳 Docker & Podman containerized workloads
+- ☸️ Kubernetes and cloud-native infrastructure
+- 🔁 CI/CD pipelines and deployment automation
+- 🌐 Nginx reverse proxy and application routing
+- 🔐 SSH, VPN, firewall and network troubleshooting
+- 📊 Prometheus, Grafana, Loki & Zabbix observability
+- 🧩 Application deployment on Jetty/Tomcat
+- 🛠️ Incident response, log analysis and RCA
+- 🏗️ Infrastructure as Code with Terraform
+- ☁️ OpenStack infrastructure operations
+
+---
+
+## 🧠 Core Engineering Stack
+
+| Domain | Technologies |
+|---|---|
+| **Cloud** | AWS • Azure • GCP • OpenStack |
+| **Containers** | Docker • Podman • Kubernetes |
+| **CI/CD** | Jenkins • GitHub Actions • GitLab CI/CD |
+| **IaC** | Terraform • CloudFormation |
+| **Monitoring** | Prometheus • Grafana • Loki • Zabbix • CloudWatch |
+| **Web / Proxy** | Nginx • Apache |
+| **Operating Systems** | Linux • Ubuntu |
+| **Networking** | DNS • HTTP/S • SSH • VPN • NAT • Load Balancing |
+| **Scripting** | Bash • Python • PowerShell |
+| **Development** | Java • C++ • JavaScript • TypeScript |
+| **Databases** | MongoDB |
+
+---
+
+## 🚀 Featured Project — Leimarembi Foundation
+
+**AI-enabled digital platform combining Cloud, DevOps and Generative AI.**
+
+```mermaid
+flowchart LR
+    U[Users] --> W[Web Platform]
+    W --> API[Application APIs]
+    API --> AI[AI Services]
+    AI --> LLM[Gemini]
+    API --> DB[(Data Layer)]
+    W --> CDN[Web Hosting / CDN]
+    G[Git Repository] --> CD[Deployment Pipeline]
+    CD --> W
+```
+
+### AI Capabilities
+
+- 🤖 AI conversational assistant
+- 📝 Meeting-minutes generation
+- 📑 Document analysis
+- 💡 Grant advisory
+- 🌐 Multilingual assistance
+- 🧠 Local fallback processing
+
+---
+
+## 🎓 Education
+
+### Indian Institute of Technology Patna
+**Executive M.Tech — Computer Science & Engineering**  
+**Specialization: Generative AI**  
+`2026 – 2028`
+
+### Chandigarh University
+**B.Tech — Computer Science & Engineering**  
+**Cloud Computing**
+
+---
+
+## 🏆 Certifications & Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Academy_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Foundation-Kubernetes_Fundamentals-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white"/>
+
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Aryamnsls&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamnsls&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aryamnsls&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aryamnsls&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aryamnsls/Aryamnsls/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🛣️ Engineering Journey
+
 ```mermaid
 timeline
-    title Aryaman's DevOps Journey
-    2021 : Started Tech Journey
-    2022 : Web Dev + Cloud Basics
-    2023 : DevOps Tools + CI/CD
-    2024 : Govt Infra @ NIC HQ
-    2025 : Advanced Cloud & Automation
+    title Cloud & DevOps Journey
+
+    2021 : Computer Science
+         : Programming Foundations
+
+    2022 : Web Development
+         : Cloud Fundamentals
+
+    2023 : DevOps
+         : CI/CD
+         : Linux & Automation
+
+    2024 : Cloud Engineering
+         : Monitoring & Infrastructure
+
+    2025 : Production DevOps
+         : Government Digital Infrastructure
+
+    2026 : Platform Engineering
+         : OpenStack & Kubernetes
+         : Generative AI
+         : M.Tech @ IIT Patna
+```
+
+---
+
+## 🎯 Current Focus
+
+```text
+☁️  Cloud Architecture
+████████████████████░░░░  85%
+
+♾️  DevOps / CI-CD
+█████████████████████░░░  90%
+
+🐧  Linux
+██████████████████████░░  92%
+
+🐳  Containers
+████████████████████░░░░  85%
+
+☸️  Kubernetes
+████████████████░░░░░░░░  70%
+
+🏗️  OpenStack
+████████████████░░░░░░░░  70%
+
+🤖  Generative AI
+██████████████░░░░░░░░░░  60%
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Aryamnsls">
+<img src="https://img.shields.io/badge/GitHub-Aryamnsls-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+### ☁️ Cloud • ♾️ DevOps • ☸️ Kubernetes • 🤖 AI
+
+**Build. Automate. Observe. Improve.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
